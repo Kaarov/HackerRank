@@ -9,6 +9,7 @@ if __name__ == '__main__':
     for x in range(num_x+1):
         for y in range(num_y+1):
             for z in range(num_z+1):
+
                 result = []
                 result.append(x)
                 result.append(y)
