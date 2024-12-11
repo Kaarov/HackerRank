@@ -9,3 +9,5 @@ if __name__ == '__main__':
     list1 = list(map(int, input().split()))
     list2 = list(map(int, input().split()))
     print(*get_product_itertools(list1, list2))
+
+# Done ✅
